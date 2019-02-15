@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1519932499 source:c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\main.cpp
+	<iostream>
+	<windows.h>
+	"GAME.h"
+	"Funktions.h"
+
+1519928994 source:c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\funktions.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	<conio.h>
+	<Lmcons.h>
+	<ctime>
+
+1519934330 source:c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\game.cpp
+	<iostream>
+	<windows.h>
+	"Funktions.h"
+	"GameFunktions.h"
+	"GameBotAI.h"
+
+1519928993 c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\funktions.h
+
+1519839778 c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\gamefunktions.h
+
+1519840102 source:c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\gamefunktions.cpp
+	<iostream>
+	<windows.h>
+	"Funktions.h"
+
+1519928994 c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\game.h
+
+1519932985 c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\include\gamebotai.h
+
+1519932098 source:c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\src\gamebotai.cpp
+	"GameBotAI.h"
+	<iostream>
+
+1519940004 c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\gamebotai.h
+
+1521402330 source:c:\cloud\onedrive\programowanie\cpp\lekcje\lekcja10-tic tac toe\gamebotai.cpp
+	"GameBotAI.h"
+	"Funktions.h"
+	<iostream>
+	<windows.h>
+	<ctime>
+
